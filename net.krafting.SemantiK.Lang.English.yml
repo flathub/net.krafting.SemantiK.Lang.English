@@ -20,7 +20,7 @@ modules:
         commit: 700eda5c39181ba97dc5de9790007a8db4f62752
         x-checker-data:
           type: git,
-          tag-pattern: '^([\\d.]+)$'
+          tag-pattern: '^([\d.]+)$'
 
   - name: English_Model_File
     buildsystem: simple
