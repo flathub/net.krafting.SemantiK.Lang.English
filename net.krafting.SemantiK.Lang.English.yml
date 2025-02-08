@@ -16,8 +16,8 @@ modules:
         path: net.krafting.SemantiK.Lang.English.metainfo.xml
       - type: git
         url: https://gitlab.com/Krafting/semantik-gtk
-        tag: '1.2.1'
-        commit: 700eda5c39181ba97dc5de9790007a8db4f62752
+        tag: 1.4.0
+        commit: 34b53e2b58d733dcb768382c66e371bc04a88e95
         x-checker-data: {type: git, tag-pattern: '^([\d.]+)$'}
 
   - name: English_Model_File
